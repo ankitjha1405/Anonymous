@@ -57,6 +57,3 @@ Bootstrap,
 # Post Your Query
 ![Screenshot (27)](https://user-images.githubusercontent.com/76553358/106379223-63952c00-63d0-11eb-91d6-c166aedd5f15.png)
 
-
-# new
-![Screenshot (28)](https://user-images.githubusercontent.com/76553358/107028303-611d4280-67d3-11eb-84cd-e5a59f31c2ec.png)
